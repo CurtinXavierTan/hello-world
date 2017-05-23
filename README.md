@@ -10,4 +10,8 @@ Task 4.5.1 : Learn and use functions such as pull push commit and branch. By cre
 Testing:
 Testing for pull request.
 
+Testing:
+Tested pushed using terminal console and GitHub Desktop Application
+
+
 
